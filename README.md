@@ -1,5 +1,5 @@
 <p align="center">
-  <img src= width="150" alt="SAPA Logo">
+  <img src= width="150" alt=>
 </p>
 
 # Sistem Aspirasi dan Pengaduan Akademik
