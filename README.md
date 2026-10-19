@@ -2,9 +2,9 @@
   <img src="public/images/logo.png" width="150" alt="SAPA Logo">
 </p>
 
-# SAPA - Sistem Aspirasi dan Pengaduan Akademik
+# Sistem Aspirasi dan Pengaduan Akademik
 
-SAPA adalah sebuah platform berbasis web yang dirancang khusus untuk mahasiswa agar dapat menyuarakan aspirasi, memberikan aduan, dan melaporkan permasalahan di lingkungan kampus secara aman dan terstruktur.
+adalah sebuah platform berbasis web yang dirancang khusus untuk mahasiswa agar dapat menyuarakan aspirasi, memberikan aduan, dan melaporkan permasalahan di lingkungan kampus secara aman dan terstruktur.
 
 ## Fitur Utama
 - **Sistem Pseudonim:** Identitas mahasiswa disamarkan (misalnya "Anonim 231" atau pseudonim unik dari sistem) untuk melindungi privasi pelapor.
